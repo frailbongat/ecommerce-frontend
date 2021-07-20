@@ -1,0 +1,99 @@
+[
+  {
+    "id": 1,
+    "name": "The Complete Strapi Course",
+    "content": "The Complete Strapi Course, available on Udemy, coupon in description",
+    "meta_description": "The Complete Strapi Course, the course you should be taking",
+    "meta_title": "The Complete Strapi Course - Entreprenerd Store",
+    "price": 12.99,
+    "slug": "the-complete-strapi-course",
+    "published_at": "2021-07-20T03:52:59.507Z",
+    "created_at": "2021-07-20T03:52:54.733Z",
+    "updated_at": "2021-07-20T03:52:59.539Z",
+    "image": {
+      "id": 1,
+      "name": "https://images.unsplash.com/photo-1536329583941-14287ec6fc4e?ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80",
+      "alternativeText": "",
+      "caption": "",
+      "width": 500,
+      "height": 500,
+      "formats": {
+        "thumbnail": {
+          "name": "thumbnail_https://images.unsplash.com/photo-1536329583941-14287ec6fc4e?ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80",
+          "hash": "thumbnail_photo_1536329583941_14287ec6fc4e_ixid_Mnwx_Mj_A3f_DF_8_M_Hxwa_G90by1w_Y_Wdlf_Hx8f_G_Vuf_DB_8f_Hx8_and_ixlib_rb_1_2_f48fbb1866",
+          "ext": ".1&auto=format&fit=crop&w=500&q=80",
+          "mime": "image/jpeg",
+          "width": 156,
+          "height": 156,
+          "size": 3.85,
+          "path": null,
+          "url": "/uploads/thumbnail_photo_1536329583941_14287ec6fc4e_ixid_Mnwx_Mj_A3f_DF_8_M_Hxwa_G90by1w_Y_Wdlf_Hx8f_G_Vuf_DB_8f_Hx8_and_ixlib_rb_1_2_f48fbb1866.1&auto=format&fit=crop&w=500&q=80"
+        }
+      },
+      "hash": "photo_1536329583941_14287ec6fc4e_ixid_Mnwx_Mj_A3f_DF_8_M_Hxwa_G90by1w_Y_Wdlf_Hx8f_G_Vuf_DB_8f_Hx8_and_ixlib_rb_1_2_f48fbb1866",
+      "ext": ".1&auto=format&fit=crop&w=500&q=80",
+      "mime": "image/jpeg",
+      "size": 21.66,
+      "url": "/uploads/photo_1536329583941_14287ec6fc4e_ixid_Mnwx_Mj_A3f_DF_8_M_Hxwa_G90by1w_Y_Wdlf_Hx8f_G_Vuf_DB_8f_Hx8_and_ixlib_rb_1_2_f48fbb1866.1&auto=format&fit=crop&w=500&q=80",
+      "previewUrl": null,
+      "provider": "local",
+      "provider_metadata": null,
+      "created_at": "2021-07-20T03:51:40.480Z",
+      "updated_at": "2021-07-20T03:51:40.504Z"
+    }
+  },
+  {
+    "id": 2,
+    "name": "The NextJs with Strapi Course",
+    "content": "This course is in the works, and may never be released. If you're interested, check the link in the description.",
+    "meta_description": "The nextks course description",
+    "meta_title": "The NextJs with Strapi Course - Entreprenerd Store",
+    "price": 497,
+    "slug": "the-next-js-with-strapi-course",
+    "published_at": "2021-07-20T03:56:46.291Z",
+    "created_at": "2021-07-20T03:56:43.958Z",
+    "updated_at": "2021-07-20T03:56:46.323Z",
+    "image": {
+      "id": 2,
+      "name": "https://images.unsplash.com/photo-1593642532744-d377ab507dc8?ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80",
+      "alternativeText": "",
+      "caption": "",
+      "width": 750,
+      "height": 501,
+      "formats": {
+        "thumbnail": {
+          "name": "thumbnail_https://images.unsplash.com/photo-1593642532744-d377ab507dc8?ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80",
+          "hash": "thumbnail_photo_1593642532744_d377ab507dc8_ixid_Mnwx_Mj_A3f_DF_8_M_Hxwa_G90by1w_Y_Wdlf_Hx8f_G_Vuf_DB_8f_Hx8_and_ixlib_rb_1_2_6ec4b63609",
+          "ext": ".1&auto=format&fit=crop&w=750&q=80",
+          "mime": "image/jpeg",
+          "width": 234,
+          "height": 156,
+          "size": 8.44,
+          "path": null,
+          "url": "/uploads/thumbnail_photo_1593642532744_d377ab507dc8_ixid_Mnwx_Mj_A3f_DF_8_M_Hxwa_G90by1w_Y_Wdlf_Hx8f_G_Vuf_DB_8f_Hx8_and_ixlib_rb_1_2_6ec4b63609.1&auto=format&fit=crop&w=750&q=80"
+        },
+        "small": {
+          "name": "small_https://images.unsplash.com/photo-1593642532744-d377ab507dc8?ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80",
+          "hash": "small_photo_1593642532744_d377ab507dc8_ixid_Mnwx_Mj_A3f_DF_8_M_Hxwa_G90by1w_Y_Wdlf_Hx8f_G_Vuf_DB_8f_Hx8_and_ixlib_rb_1_2_6ec4b63609",
+          "ext": ".1&auto=format&fit=crop&w=750&q=80",
+          "mime": "image/jpeg",
+          "width": 500,
+          "height": 334,
+          "size": 27.13,
+          "path": null,
+          "url": "/uploads/small_photo_1593642532744_d377ab507dc8_ixid_Mnwx_Mj_A3f_DF_8_M_Hxwa_G90by1w_Y_Wdlf_Hx8f_G_Vuf_DB_8f_Hx8_and_ixlib_rb_1_2_6ec4b63609.1&auto=format&fit=crop&w=750&q=80"
+        }
+      },
+      "hash": "photo_1593642532744_d377ab507dc8_ixid_Mnwx_Mj_A3f_DF_8_M_Hxwa_G90by1w_Y_Wdlf_Hx8f_G_Vuf_DB_8f_Hx8_and_ixlib_rb_1_2_6ec4b63609",
+      "ext": ".1&auto=format&fit=crop&w=750&q=80",
+      "mime": "image/jpeg",
+      "size": 49.85,
+      "url": "/uploads/photo_1593642532744_d377ab507dc8_ixid_Mnwx_Mj_A3f_DF_8_M_Hxwa_G90by1w_Y_Wdlf_Hx8f_G_Vuf_DB_8f_Hx8_and_ixlib_rb_1_2_6ec4b63609.1&auto=format&fit=crop&w=750&q=80",
+      "previewUrl": null,
+      "provider": "local",
+      "provider_metadata": null,
+      "created_at": "2021-07-20T03:55:15.690Z",
+      "updated_at": "2021-07-20T03:55:15.705Z"
+    }
+  }
+]
